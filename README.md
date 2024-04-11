@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🚀🛰 Studying Aerospace Engineering.
+- 🚀🛰 I am an Aerospace Engineer working in the Automotive industry.
 - 🌱📖 Learning programming, team-working, editing, efficiency, etc.
 - 🤝👯 I'm looking to collaborate on developing programs, professional enrollment, any project you would like my collaboration!
 - 🤜🤛 I'm looking for help with different languages like Python, advanced C++, advanced MatLab, etc.
